@@ -24,10 +24,10 @@ I love building things and learning new technologies. Currently, I'm focused on 
 
 Here are a few of my favorite projects:
 
-### [Project Name 1](link-to-project-1)
+### [Mental Health Data Analysis ]([link-to-project-1](https://github.com/manalafzal47/Data-Science-Projects))
 Description of the project goes here. What it does, technologies used, etc.
 
-### [Project Name 2](link-to-project-2)
+### [Weather App]([link-to-project-2](https://github.com/manalafzal47/Weather-App))
 Description of the project goes here. What it does, technologies used, etc.
 
 ## Get in Touch
