@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manal</h1>
+About Me
 
 🎓 **Computer Science Student** at Ontario Tech University  
 
