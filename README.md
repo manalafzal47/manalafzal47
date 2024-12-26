@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manal</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
 
-- I’m currently working on redesigning OTR Website and CFD Stimulations App
+🌟 **Computer Science Student** at Ontario Tech University  
 
-- I’m currently learning **Typescript**
+💻 Passionate about **frontend development** and exploring **AI Integration in Web Apps**  
 
-- 💬 Ask me about **web designing**
+🎨 These days, I'm exploring **Three.js**, **Blender**, and **Typescript**  
 
-- 📫 How to reach me **manal.afzal@ontariotechu.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
