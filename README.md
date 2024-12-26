@@ -1,10 +1,10 @@
 <h2>About Me</h2>
 
-🎓 **Computer Science Student** at Ontario Tech University  
+- 🎓 **Computer Science Student** at Ontario Tech University
 
-❤️‍🔥 Passionate about **frontend development** and exploring **AI Integration in Web Apps**  
+- ❤️‍🔥 Passionate about **frontend development** and exploring **AI Integration in Web Apps**  
 
-🎨 These days, I'm exploring **Three.js**, **Blender**, and **Typescript**  
+- 🎨 These days, I'm exploring **Three.js**, **Blender**, and **Typescript**  
 
 <h2>Connect With Me</h2>
 
