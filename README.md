@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manal</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working on [Toyz Website Re-development](https://github.com/smutharasan/Toyz-Marketplace-Website)
+- I’m currently working on redesigning OTR Website and CFD Stimulations App
 
-- 🌱 I’m currently learning **React Native, Next JS**
+- I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on **Anything related to web development**
-
-- 💬 Ask me about **data visualization libraries, html and css**
+- 💬 Ask me about **web designing**
 
 - 📫 How to reach me **manal.afzal@ontariotechu.net**
 
